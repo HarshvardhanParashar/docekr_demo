@@ -1,0 +1,11 @@
+state,payment_mode,Total
+NC,Net Banking,19596
+IL,Cash on Delivery,20498
+OH,Net Banking,20351
+TX,UPI,20065
+GA,Net Banking,20041
+WA,UPI,20244
+CA,UPI,20246
+FL,Debit Card,20010
+NY,Debit Card,20369
+MI,Debit Card,20416
